@@ -41,14 +41,14 @@
 4) Нажмите "Добавить" для сохранения изменений
 
 ## Стркуктура репозитория
-untitled3/
-|-- .idea/                 
-|-- out/                   
-|-- src/                   
-|   |-- EchoApp.java       
-|   |-- Student.java       
-|-- .gitignore            
-|-- untitled3.iml
+untitled3/              
+├── .idea/                  
+├──  out/                   
+├──  src/                   
+│   ├── EchoApp.java       
+│   └──  Student.java       
+├──  .gitignore            
+└──untitled3.iml
 
 ## Технические треюования
 - Язык програмирования: Java
@@ -61,5 +61,7 @@ untitled3/
 
 ## Контактная информация
 Электронная почта: 
+
 kover0965@gmail.com 
+
 AlexLezar@yandex.ru
